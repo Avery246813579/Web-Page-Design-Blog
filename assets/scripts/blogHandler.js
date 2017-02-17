@@ -26,7 +26,7 @@ if (ref.indexOf('?') != -1) {
     ref = ref.substr(0, ref.indexOf('?'));
 }
 
-var blogsFiles = ['1 30 17 BLOG.html'];
+var blogsFiles = ['2 17 17 BLOG.html'];
 var blogsHtml = {};
 var index = blogsFiles.length - 1;
 
