@@ -18,6 +18,10 @@ html {
     overflow: auto;
 }
 
+.body img{
+    max-width: 100%;
+}
+
 #overlay {
     display: block;
     position: fixed;
